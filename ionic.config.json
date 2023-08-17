@@ -1,0 +1,7 @@
+{
+  "name": "my-crud-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
