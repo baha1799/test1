@@ -1,14 +1,14 @@
 {
-  "projectName": "bahaporjectionic",
+  "projectName": "bahaprojectionic",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
-    "framework": "react",
+    "framework": "ionic",
     "config": {
       "SourceDir": "src",
-      "DistributionDir": "build",
-      "BuildCommand": "npm.cmd run-script build",
-      "StartCommand": "npm.cmd run-script start"
+      "DistributionDir": "www",
+      "BuildCommand": "npm run-script build",
+      "StartCommand": "ionic serve"
     }
   },
   "providers": [

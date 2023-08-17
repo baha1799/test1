@@ -1,15 +1,15 @@
 {
   "providers": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-bahaporjectionic-dev-170433-authRole",
-      "UnauthRoleArn": "arn:aws:iam::519918073452:role/amplify-bahaporjectionic-dev-170433-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::519918073452:role/amplify-bahaporjectionic-dev-170433-authRole",
+      "AuthRoleName": "amplify-bahaprojectionic-dev-115533-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519918073452:role/amplify-bahaprojectionic-dev-115533-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519918073452:role/amplify-bahaprojectionic-dev-115533-authRole",
       "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-bahaporjectionic-dev-170433-deployment",
-      "UnauthRoleName": "amplify-bahaporjectionic-dev-170433-unauthRole",
-      "StackName": "amplify-bahaporjectionic-dev-170433",
-      "StackId": "arn:aws:cloudformation:us-west-2:519918073452:stack/amplify-bahaporjectionic-dev-170433/38631960-3c46-11ee-9092-02807d641f57",
-      "AmplifyAppId": "d2ifxo14xc1ro1"
+      "DeploymentBucketName": "amplify-bahaprojectionic-dev-115533-deployment",
+      "UnauthRoleName": "amplify-bahaprojectionic-dev-115533-unauthRole",
+      "StackName": "amplify-bahaprojectionic-dev-115533",
+      "StackId": "arn:aws:cloudformation:us-west-2:519918073452:stack/amplify-bahaprojectionic-dev-115533/38669100-3ce4-11ee-959e-026c30ae0f75",
+      "AmplifyAppId": "dkhk38hy79438"
     }
   }
 }
